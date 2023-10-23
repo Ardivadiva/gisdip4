@@ -25,7 +25,6 @@ export function onSubmitMarkerClick() {
     let volume = getValue('volume');
     let type = "Point"
     let data = {
-      "type" : type,
       "name" : name,
       "volume" : volume,
       "coordinates" : [
