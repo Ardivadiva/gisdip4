@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://raw.githubusercontent.com/Ardivadiva/gisdip4/main/gisjson.json";
+export let URLGeoJson = "https://raw.githubusercontent.com/Ardivadiva/gisdip3/main/gisjson.json";
 export let urlPostGCF = "https://asia-southeast2-modular-bucksaw-401904.cloudfunctions.net/function-2";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
